@@ -1,0 +1,25 @@
+# Cartelle a escludere
+varie/
+build/
+dist/
+
+# Script di configurazione e sincronizzazione
+1_init_git.bat
+2_sync_github.bat
+3_manage_branches.bat
+3_manage_branches.ps1
+clean_metadata.bat
+
+# File di backup degli script
+*.bat`
+
+# File di specifica (PyInstaller)
+*.spec
+
+# Escludi altri file di backup
+*.py`
+*.bak
+*.bat`1_init_git.bat
+2_sync_github.bat
+1_init_git.bat
+2_sync_github.bat
